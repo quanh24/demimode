@@ -47,4 +47,4 @@ async def ping():
 
 
 
-client.run("NDkzODI2NjkxMDg1MzY5MzU2.DovNtA.xZLSZQ0DD90r5JrJGCOotaub9Mc")
+client.run("TOKEN")
